@@ -9,6 +9,7 @@ All the deep learning codes and data
   3. Examples_using_tesseract4_OCR.ipynb
   4. techniques_to_Improve_Accuracy_of_the_tesseract2.ipynb
   5. For tilted image containing a text to be read we can correct the angle and then read the text using tessract for more accuracy for this please refer this code file: End_to_end_Auto_Image_tilt_angle_detection_and_correction.ipynb and input file: DemoImage.png  
+  6. For automatic cropping of white border refer this link: https://github.com/Yogeshnaik1190/Pre-processing
 
   For more details please refer the explaination: 
   1. https://limitlessdatascience.wordpress.com/2019/07/31/tesseract-3-0-and-4-0-implementation-and-output-comparison/
