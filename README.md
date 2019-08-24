@@ -21,5 +21,8 @@ All the deep learning codes and data
   1. Sentiment_analysis_using_google_language_API.ipynb
   2. GoogleSentimentScoreCategories.png
   
+  
+ # Medical images analysis:
+  1. Segmentation using U-Net model. (refer file: UNet_Bimedical_image_segmentation.ipynb, Data.zip, U Net Architecture.png)
 
 
