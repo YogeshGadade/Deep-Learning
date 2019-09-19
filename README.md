@@ -3,6 +3,14 @@ All the deep learning codes and data
 
 
 # Optical-Character-Recognition-using-Tesseract
+## Using Google Vision API in Python
+  Please refer following files:
+  1. Input images: English sample 2, hindi sample 3, ML model development and deployment
+  2. Code file: Google_vision_OCR.ipynb
+  
+  For more details please refer the explaination: 
+  https://limitlessdatascience.wordpress.com/2019/09/19/vision-api-detect-handwriting-ocr-python-code-implementation/
+## Using Tesseract in Python
   Please refer following files:
   1. English sample 2, NoisyImage.png, hindi sample with different fonts.png
   2. Examples_using_tesseract3_OCR.ipynb
