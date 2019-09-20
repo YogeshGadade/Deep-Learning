@@ -2,7 +2,7 @@
 All the deep learning codes and data
 
 
-# Optical-Character-Recognition-using-Tesseract
+# Optical-Character-Recognition
 ## Using Google Vision API in Python
   Please refer following files:
   1. Input images: English sample 2, hindi sample 3, ML model development and deployment
